@@ -22,8 +22,12 @@ These .txt files can be plotted using gnuplot application
 ![img1](https://drive.google.com/uc?export=view&id=1IrGY04t2Tvn_3BfMmBYUOqPSx-VaygWw)
 
 
+
+
 2. Sine wave/ Expected output
 ![img2](https://drive.google.com/uc?export=view&id=1CeVA94NF-g2vARN1B4tyF8iwKxbN1YZG)
+
+
 
 
 3. Filtered output
