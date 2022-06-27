@@ -8,7 +8,7 @@ A low pass butterworth filter was implemented in C where the user can input the 
 
 
 ## Implementation
-The function, ButterworthLowpassFilter0050SixthOrder, is the one which does the filterring of the noisy signal which has the coefficients values set. since it is a sixth order filter six coefficient values are set. The noisy signal is created by adding random values to the sine wave then these values are passed through the finction which filters this signal.
+The function, ButterworthLowpassFilter0050SixthOrder, is the one which does the filtering of the noisy signal which has the coefficients values set. since it is a sixth order filter six coefficient values are set. The noisy signal is created by adding random values to the sine wave then these values are passed through the function which filters this signal.
  
 ## Output
 The outputs are the y axis values which are created and stored in the .txt files.
